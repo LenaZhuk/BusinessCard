@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225388380239",
+    "firebase_url": "https://textapp-9f673.firebaseio.com",
+    "project_id": "textapp-9f673",
+    "storage_bucket": "textapp-9f673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225388380239:android:a92d09cbe1e8353c",
+        "android_client_info": {
+          "package_name": "com.businesscards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225388380239-756i163uefpqkeq59jl6m9pmuq3kk9le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg77fOnuQhV1IPPJIFOGPeIe3nZ1kF4ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
